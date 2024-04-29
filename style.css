@@ -1,0 +1,23 @@
+table{
+  justify-content: center; 
+color:rgb(114, 115, 124);
+  border: 4px 5px 4px  white;
+
+}
+body{
+    background-image: url(images/13.jpg);
+}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    color:white;
+ 
+
+}
+.main-card{
+    width:25%;
+    height: 25%;
+    margin: 20px;
+    background-color: rgb(79, 78, 78);
+    box-shadow: 4px 4px 4px 4px grey; 
+}
